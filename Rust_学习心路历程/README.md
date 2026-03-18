@@ -7,6 +7,9 @@
 - `Day3_循环与迭代器`：loop/while/for、map/filter/fold
 - `Day4_泛型Trait生命周期`：泛型、trait、生命周期
 - `Day5_闭包函数参数枚举`：闭包、函数作为参数、枚举
+- `Day6_模块系统与HashMap`：mod、pub、use、HashMap
+- `Day7_entry字符串文件读写`：entry().or_insert()、String/&str、文件读写
+- `Day8_serde与项目实战`：serde/JSON、derive、错误处理进阶、Vec<struct>
 
 每个子目录都包含：
 1. `README.md`（当天学习心路历程）
